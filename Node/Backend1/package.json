@@ -1,0 +1,12 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "This is very close of center project",
+  "license": "ISC",
+  "author": "Pushpendra",
+  "type": "commonjs",
+  "main": "info_fruit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
